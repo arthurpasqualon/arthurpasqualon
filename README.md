@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arthur
 - 👀 I’m interested in Mobile Development and business opportunities
-- 🌱 I’m currently learning backend development and flutter
+- 🌱 I’m currently improving my skills 
 - 💞️ I’m looking to collaborate on social impact projects
 - 📫 https://linktr.ee/arthurpasqualon
